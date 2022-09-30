@@ -1,4 +1,4 @@
-module github.com/AllenDang/imgui-go
+module github.com/DeanHnter/imgui-go
 
 go 1.16
 
